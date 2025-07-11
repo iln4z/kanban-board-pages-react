@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.51bcd3d8.css",
-    "main.js": "/static/js/main.1586dcab.js",
-    "static/js/453.db45b467.chunk.js": "/static/js/453.db45b467.chunk.js",
-    "static/media/user-avatar.svg": "/static/media/user-avatar.8c75e22659ff0c8d0c51b327365a7432.svg",
-    "index.html": "/index.html",
-    "static/media/arrow-up.svg": "/static/media/arrow-up.0bdd753114a7075f4da59e76fe30f326.svg",
-    "static/media/arrow-down.svg": "/static/media/arrow-down.499a81f7058420ec4c251b760054534d.svg",
-    "static/media/add-card.svg": "/static/media/add-card.c6cdbf7a59b54744b6528f29fcbc968a.svg",
-    "main.51bcd3d8.css.map": "/static/css/main.51bcd3d8.css.map",
-    "main.1586dcab.js.map": "/static/js/main.1586dcab.js.map",
-    "453.db45b467.chunk.js.map": "/static/js/453.db45b467.chunk.js.map"
+    "main.css": "/kanban-board-pages-react/static/css/main.51bcd3d8.css",
+    "main.js": "/kanban-board-pages-react/static/js/main.97279658.js",
+    "static/js/453.db45b467.chunk.js": "/kanban-board-pages-react/static/js/453.db45b467.chunk.js",
+    "static/media/user-avatar.svg": "/kanban-board-pages-react/static/media/user-avatar.8c75e22659ff0c8d0c51b327365a7432.svg",
+    "index.html": "/kanban-board-pages-react/index.html",
+    "static/media/arrow-up.svg": "/kanban-board-pages-react/static/media/arrow-up.0bdd753114a7075f4da59e76fe30f326.svg",
+    "static/media/arrow-down.svg": "/kanban-board-pages-react/static/media/arrow-down.499a81f7058420ec4c251b760054534d.svg",
+    "static/media/add-card.svg": "/kanban-board-pages-react/static/media/add-card.c6cdbf7a59b54744b6528f29fcbc968a.svg",
+    "main.51bcd3d8.css.map": "/kanban-board-pages-react/static/css/main.51bcd3d8.css.map",
+    "main.97279658.js.map": "/kanban-board-pages-react/static/js/main.97279658.js.map",
+    "453.db45b467.chunk.js.map": "/kanban-board-pages-react/static/js/453.db45b467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51bcd3d8.css",
-    "static/js/main.1586dcab.js"
+    "static/js/main.97279658.js"
   ]
 }
