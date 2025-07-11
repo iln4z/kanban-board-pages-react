@@ -9,7 +9,7 @@ import { KanbanStateProvider } from "./components/context/kanban-context";
 function App() {
   return (
     <KanbanStateProvider>
-      <Router>
+      <Router basename="/kanban-board-pages-react">
         <div>
           <header>
             <Header />
